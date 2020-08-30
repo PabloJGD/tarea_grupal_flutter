@@ -1,7 +1,9 @@
 # grupal_semana2
 
 Trabajo Grupal
+
 Nombre: Pablo de Jesús Guizado Díaz
+
 Obs: Mi compañera ya lo había realizado a tiempo, lo estoy subiendo porque no participé en el desarrollo que hizo.
 
 ## Getting Started
